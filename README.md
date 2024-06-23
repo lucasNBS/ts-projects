@@ -8,6 +8,7 @@ Repositório com um conjunto de projetos em TS feitos como parte de um plano de 
 - todo-list
 - typing-animation
 - hangman
+- custom-select
 
 ## Projetos medianos
 
