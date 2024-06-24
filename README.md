@@ -9,6 +9,7 @@ Repositório com um conjunto de projetos em TS feitos como parte de um plano de 
 - typing-animation
 - hangman
 - custom-select
+- multistep-form
 
 ## Projetos medianos
 
